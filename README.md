@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey there 👋
+I'm Kushal,
 <!--
 **Kushal167/Kushal167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About Me:
+- Always exploring new tech and ideas  
+- Love building things, breaking them, and figuring out why they broke  
+- Open to collabs, experiments, and the occasional random project
