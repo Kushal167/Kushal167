@@ -1,5 +1,5 @@
 ## Hey there 👋
-I'm Kushal,
+I'm Kushal,IT Engineering student, lifelong learner, and tech enthusiast.
 <!--
 **Kushal167/Kushal167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
